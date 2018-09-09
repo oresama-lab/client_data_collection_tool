@@ -11,6 +11,6 @@ set hh=%time2:~0,2%
 set mn=%time2:~3,2%
 set ss=%time2:~6,2%
 
-set filename=%yyyy%%mm%%dd-%%hh%%mn%%ss%
+set filename="%yyyy%%mm%%dd-%%hh%%mn%%ss%"
 
 set default_dir="%USERPROFILE%\Desktop\client_info"
