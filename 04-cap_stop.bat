@@ -1,0 +1,3 @@
+netsh trace stop
+
+pause
